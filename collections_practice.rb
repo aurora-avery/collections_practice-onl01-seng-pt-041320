@@ -1,5 +1,3 @@
-
-
 def sort_array_asc(array)
   array.sort
 end
@@ -36,10 +34,7 @@ def find_a(array)
     word[0] == "a"
   end
 
-  # using select method
-    # array.select do |word|
-    #   word[0] == "a"
-    # end
+
 end
 
 def sum_array(array)
